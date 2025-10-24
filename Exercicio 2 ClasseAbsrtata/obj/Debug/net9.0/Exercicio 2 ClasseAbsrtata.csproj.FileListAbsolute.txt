@@ -1,0 +1,14 @@
+C:\Users\47132586874\Desktop\Atividade POO\Exercicio 2 ClasseAbsrtata\obj\Debug\net9.0\Exercicio 2 ClasseAbsrtata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47132586874\Desktop\Atividade POO\Exercicio 2 ClasseAbsrtata\obj\Debug\net9.0\Exercicio 2 ClasseAbsrtata.AssemblyInfoInputs.cache
+C:\Users\47132586874\Desktop\Atividade POO\Exercicio 2 ClasseAbsrtata\obj\Debug\net9.0\Exercicio 2 ClasseAbsrtata.AssemblyInfo.cs
+C:\Users\47132586874\Desktop\Atividade POO\Exercicio 2 ClasseAbsrtata\obj\Debug\net9.0\Exercicio 2 ClasseAbsrtata.csproj.CoreCompileInputs.cache
+C:\Users\47132586874\Desktop\Atividade POO\Exercicio 2 ClasseAbsrtata\bin\Debug\net9.0\Exercicio 2 ClasseAbsrtata.exe
+C:\Users\47132586874\Desktop\Atividade POO\Exercicio 2 ClasseAbsrtata\bin\Debug\net9.0\Exercicio 2 ClasseAbsrtata.deps.json
+C:\Users\47132586874\Desktop\Atividade POO\Exercicio 2 ClasseAbsrtata\bin\Debug\net9.0\Exercicio 2 ClasseAbsrtata.runtimeconfig.json
+C:\Users\47132586874\Desktop\Atividade POO\Exercicio 2 ClasseAbsrtata\bin\Debug\net9.0\Exercicio 2 ClasseAbsrtata.dll
+C:\Users\47132586874\Desktop\Atividade POO\Exercicio 2 ClasseAbsrtata\bin\Debug\net9.0\Exercicio 2 ClasseAbsrtata.pdb
+C:\Users\47132586874\Desktop\Atividade POO\Exercicio 2 ClasseAbsrtata\obj\Debug\net9.0\Exercicio 2 ClasseAbsrtata.dll
+C:\Users\47132586874\Desktop\Atividade POO\Exercicio 2 ClasseAbsrtata\obj\Debug\net9.0\refint\Exercicio 2 ClasseAbsrtata.dll
+C:\Users\47132586874\Desktop\Atividade POO\Exercicio 2 ClasseAbsrtata\obj\Debug\net9.0\Exercicio 2 ClasseAbsrtata.pdb
+C:\Users\47132586874\Desktop\Atividade POO\Exercicio 2 ClasseAbsrtata\obj\Debug\net9.0\Exercicio 2 ClasseAbsrtata.genruntimeconfig.cache
+C:\Users\47132586874\Desktop\Atividade POO\Exercicio 2 ClasseAbsrtata\obj\Debug\net9.0\ref\Exercicio 2 ClasseAbsrtata.dll

@@ -1,0 +1,14 @@
+C:\Users\47132586874\Desktop\Atividade POO\Atividade 23.10 Classe Pessoa\obj\Debug\net9.0\Atividade 23.10 Classe Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47132586874\Desktop\Atividade POO\Atividade 23.10 Classe Pessoa\obj\Debug\net9.0\Atividade 23.10 Classe Pessoa.AssemblyInfoInputs.cache
+C:\Users\47132586874\Desktop\Atividade POO\Atividade 23.10 Classe Pessoa\obj\Debug\net9.0\Atividade 23.10 Classe Pessoa.AssemblyInfo.cs
+C:\Users\47132586874\Desktop\Atividade POO\Atividade 23.10 Classe Pessoa\obj\Debug\net9.0\Atividade 23.10 Classe Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\47132586874\Desktop\Atividade POO\Atividade 23.10 Classe Pessoa\bin\Debug\net9.0\Atividade 23.10 Classe Pessoa.exe
+C:\Users\47132586874\Desktop\Atividade POO\Atividade 23.10 Classe Pessoa\bin\Debug\net9.0\Atividade 23.10 Classe Pessoa.deps.json
+C:\Users\47132586874\Desktop\Atividade POO\Atividade 23.10 Classe Pessoa\bin\Debug\net9.0\Atividade 23.10 Classe Pessoa.runtimeconfig.json
+C:\Users\47132586874\Desktop\Atividade POO\Atividade 23.10 Classe Pessoa\bin\Debug\net9.0\Atividade 23.10 Classe Pessoa.dll
+C:\Users\47132586874\Desktop\Atividade POO\Atividade 23.10 Classe Pessoa\bin\Debug\net9.0\Atividade 23.10 Classe Pessoa.pdb
+C:\Users\47132586874\Desktop\Atividade POO\Atividade 23.10 Classe Pessoa\obj\Debug\net9.0\Atividade 23.10 Classe Pessoa.dll
+C:\Users\47132586874\Desktop\Atividade POO\Atividade 23.10 Classe Pessoa\obj\Debug\net9.0\refint\Atividade 23.10 Classe Pessoa.dll
+C:\Users\47132586874\Desktop\Atividade POO\Atividade 23.10 Classe Pessoa\obj\Debug\net9.0\Atividade 23.10 Classe Pessoa.pdb
+C:\Users\47132586874\Desktop\Atividade POO\Atividade 23.10 Classe Pessoa\obj\Debug\net9.0\Atividade 23.10 Classe Pessoa.genruntimeconfig.cache
+C:\Users\47132586874\Desktop\Atividade POO\Atividade 23.10 Classe Pessoa\obj\Debug\net9.0\ref\Atividade 23.10 Classe Pessoa.dll
